@@ -10,9 +10,11 @@ Simon Game is a fun and interactive memory game built using **HTML**, **CSS**, a
 - Smooth animations and responsive UI
 
 ## 📷 Screenshot
-<img width="414" alt="Screenshot 2025-06-29 224051" src="https://github.com/user-attachments/assets/7ac3ed45-a481-4d73-bd13-75e818a050ca" />
 
-<img width="382" alt="Screenshot 2025-06-29 224343" src="https://github.com/user-attachments/assets/9473eb69-d16e-4e64-a0b1-6c60d4c51e4f" />
+<img width="414" alt="Screenshot 2025-06-29 224051" src="https://github.com/user-attachments/assets/edb40b73-e893-49bc-8983-bd6fd4262eae" />
+
+
+<img width="382" alt="Screenshot 2025-06-29 224343" src="https://github.com/user-attachments/assets/b193017b-9771-422a-86de-378a39f6c7f8" />
 
 ## 🛠️ Technologies Used
 
